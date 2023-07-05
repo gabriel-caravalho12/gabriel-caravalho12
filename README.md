@@ -1,6 +1,6 @@
 Hi, I’m @gabriel-caravalho12
-I’m interested in expand my knowledge 💭
-python programmer 🐍
+- I’m interested in expand my knowledge 💭
+- python programmer 🐍
 
 
 <!---
